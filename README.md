@@ -1,4 +1,4 @@
-## Hello, I'm Celso Rocha.
+## Hello, I'm Celso.
 
 ### Social Media
 
