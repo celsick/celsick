@@ -1,3 +1,3 @@
-## Hello, I'm Celso.
+## Hello 👋, I'm Celso.
 
 
