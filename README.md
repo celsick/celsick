@@ -1,7 +1,7 @@
 ## Hello 👋, I'm Celso.
 
 
-### Connect with me:
+# Connect with me:
 
-### Languages and Tools:
+# Languages and Tools:
 
