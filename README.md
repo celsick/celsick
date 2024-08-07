@@ -19,12 +19,15 @@
 <a href="https://www.linkedin.com/in/celsojwnior/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:celsorrochajr2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://leetcode.com"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+<br>
 <a href="https://steamcommunity.com/id/eloquencia/" ><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" ></a>
 <a href="https://slack.com"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a>
 <a href="https://www.youtube.com/@polycasta"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
 
 <h1 align="center">📌My Portfolios</h1>
+
+<div align="center">⚙️💻🛠️ <br> (They'll be available as soon as possible!)</div>
 
 ## Languages and Tools:
 
