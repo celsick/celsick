@@ -49,6 +49,11 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap" height="50" />
 </div>
 
+#### Studying at the moment:
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="50" />
+</div>
+
 #### Database & Cloud Servers
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql,aws" height="50" />
