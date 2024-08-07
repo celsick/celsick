@@ -1,9 +1,21 @@
-## Hello 👋, I'm Celso.
+<h1 align="center">Hello👋, I'm Celso.</h1>
 
 - 🌱 I am currently studying Systems Analysis and Development at [Fatec](https://www.fatecsp.br)
-- 💬 Ask me about ...
+- 🎯 ........
+- 💬 "No matter what people tell you, words and ideas can change the world." – Robin Williams.
+<details>
+  <summary>👤 About me:</summary>
+ 
+  -
+
+  -
+</details>
+
 
 ## Connect with me:
+
+
+<h1 align="center">📌My Portfolios</h1>
 
 ## Languages and Tools:
 
