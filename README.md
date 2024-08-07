@@ -29,6 +29,10 @@
 
 <div align="center">⚙️💻🛠️ <br> (They'll be available as soon as possible!)</div>
 
+<p align="center">
+  <img align="center" src="star.gif" alt="GIF">
+</p>
+
 ## Languages and Tools:
 
 #### Backend
