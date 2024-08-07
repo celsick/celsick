@@ -29,9 +29,13 @@
 
 <div align="center">⚙️💻🛠️ <br> (They'll be available as soon as possible!)</div>
 
+<br> <br>
+
 <p align="center">
-  <img align="center" src="star.gif" alt="GIF">
+  <img align="center" src="star.gif" alt="GIF" height="300">
 </p>
+
+<br>
 
 ## Languages and Tools:
 
