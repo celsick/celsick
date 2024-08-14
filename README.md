@@ -61,6 +61,5 @@
 
 #### Tools
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="53" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,idea" height="50" />
 </div>
