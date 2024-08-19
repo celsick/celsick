@@ -51,7 +51,7 @@
 
 #### Studying at the moment:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,cs" height="50" />
+  <img src="https://skillicons.dev/icons?i=java,c" height="50" />
 </div>
 
 #### Database & Cloud Servers
