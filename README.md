@@ -28,25 +28,15 @@
 
 #### Back-End
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask" height="50" />
+  <img src="https://skillicons.dev/icons?i=python,java" height="50" />
 </div>
 
 #### Front-End
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" height="50" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" height="50" />
 </div>
 
-#### Studying at the moment:
+#### Tools, Database, Cloud Servers & Frameworks
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,c" height="50" />
-</div>
-
-#### Database & Cloud Servers
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,aws" height="50" />
-</div>
-
-#### Tools
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,idea" height="50" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,idea,flask,mysql,aws" height="50" />
 </div>
